@@ -1,6 +1,2 @@
 #!/bin/bash
- search_dir=/root/alx-system_engineering-devops/0x00-shell_basics
-for entry in "$search_dir"/*
-do
-echo "$entry"
-done
+echo $(ls /root/alx-system_engineering-devops/0x00-shell_basics )
