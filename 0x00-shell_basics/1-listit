@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(ls /root/alx-system_engineering-devops/0x00-shell_basics ) 
+chmod -R +X 1-listit
+chmod -R +X 1-listit
